@@ -5,6 +5,7 @@ This directory contains additional information used in the construction and prog
 ## Flowchart
 This diagram represents in detail all the logical processes to be performed by the robot on the track.
 
-![Regular](https://github.com/csvprobotica/RoSGhost/blob/main/other/Flowchart.png)¡
+![Regular]
+
 
 
