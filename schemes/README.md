@@ -4,7 +4,8 @@ Electromechanical diagrams
 This directory contains a [`connection diagram`] and a [`list of electronic components`] in which each of the elements used are described.
 
 ## Connection diagram
-![Regular](https://github.com/user-attachments/assets/091ac8e0-d706-4cf9-9b85-0debf0793f10)
+![Regular](https://github.com/user-attachments/assets/f147bb20-966d-4e30-b867-c572803027e5)
+
 
 
 ## Electronic Components
