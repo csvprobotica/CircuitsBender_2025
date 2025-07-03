@@ -14,7 +14,6 @@ Materials to build our robot:
 * 3 Technic Distance Sensor 45604
 * 1 Rechargeable battery 7.4V 2100mAh
 * Integrated gyroscope
-* 3D modeling designs for assembly
 
 Building Instructions
 ====
