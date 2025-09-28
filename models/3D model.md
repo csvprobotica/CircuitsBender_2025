@@ -1,4 +1,4 @@
-model 3D
+Model 3D
 ====
 ## The 3D model was modeled in a 3D modeling application.
 The 3D model has been done by ourselves.
